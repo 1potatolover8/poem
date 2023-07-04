@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head><title>poem </title>
     <link rel="stylesheet" type="text/css" href="izucssp.css">
     <link href='https://fonts.googleapis.com/css?family=Sacramento' rel="stylesheet">
